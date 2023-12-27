@@ -1,0 +1,38 @@
+/* src/styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+  
+.container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(97, 59, 59, 0.1);
+    padding: 20px;
+    width: 400px;
+}
+  
+h2 {
+    color: #333;
+    text-align: center;
+}
+  
+input {
+    width: 90%;
+    padding: 1rem;
+    margin: 10px 0;
+}
+  
+p {
+    color: #555;
+}
+
+
+  

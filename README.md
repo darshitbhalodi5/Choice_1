@@ -1,2 +1,1 @@
-# Choice_1
-Task-1 for internship
+Task-1 for intership
